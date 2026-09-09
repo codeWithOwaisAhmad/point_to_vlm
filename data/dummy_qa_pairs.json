@@ -1,0 +1,92 @@
+[
+  {
+    "room_id": "dummy_room_00",
+    "point_cloud_path": "data/dummy_room_00.npy",
+    "question": "What color is the object near the center of the room?",
+    "answer": "The object near the center is a placeholder color."
+  },
+  {
+    "room_id": "dummy_room_00",
+    "point_cloud_path": "data/dummy_room_00.npy",
+    "question": "How many distinct objects are visible in the room?",
+    "answer": "There are several distinct objects visible."
+  },
+  {
+    "room_id": "dummy_room_00",
+    "point_cloud_path": "data/dummy_room_00.npy",
+    "question": "Is there an object close to the wall?",
+    "answer": "Yes, one object is close to the wall."
+  },
+  {
+    "room_id": "dummy_room_01",
+    "point_cloud_path": "data/dummy_room_01.npy",
+    "question": "What color is the object near the center of the room?",
+    "answer": "The object near the center is a placeholder color."
+  },
+  {
+    "room_id": "dummy_room_01",
+    "point_cloud_path": "data/dummy_room_01.npy",
+    "question": "How many distinct objects are visible in the room?",
+    "answer": "There are several distinct objects visible."
+  },
+  {
+    "room_id": "dummy_room_01",
+    "point_cloud_path": "data/dummy_room_01.npy",
+    "question": "Is there an object close to the wall?",
+    "answer": "Yes, one object is close to the wall."
+  },
+  {
+    "room_id": "dummy_room_02",
+    "point_cloud_path": "data/dummy_room_02.npy",
+    "question": "What color is the object near the center of the room?",
+    "answer": "The object near the center is a placeholder color."
+  },
+  {
+    "room_id": "dummy_room_02",
+    "point_cloud_path": "data/dummy_room_02.npy",
+    "question": "How many distinct objects are visible in the room?",
+    "answer": "There are several distinct objects visible."
+  },
+  {
+    "room_id": "dummy_room_02",
+    "point_cloud_path": "data/dummy_room_02.npy",
+    "question": "Is there an object close to the wall?",
+    "answer": "Yes, one object is close to the wall."
+  },
+  {
+    "room_id": "dummy_room_03",
+    "point_cloud_path": "data/dummy_room_03.npy",
+    "question": "What color is the object near the center of the room?",
+    "answer": "The object near the center is a placeholder color."
+  },
+  {
+    "room_id": "dummy_room_03",
+    "point_cloud_path": "data/dummy_room_03.npy",
+    "question": "How many distinct objects are visible in the room?",
+    "answer": "There are several distinct objects visible."
+  },
+  {
+    "room_id": "dummy_room_03",
+    "point_cloud_path": "data/dummy_room_03.npy",
+    "question": "Is there an object close to the wall?",
+    "answer": "Yes, one object is close to the wall."
+  },
+  {
+    "room_id": "dummy_room_04",
+    "point_cloud_path": "data/dummy_room_04.npy",
+    "question": "What color is the object near the center of the room?",
+    "answer": "The object near the center is a placeholder color."
+  },
+  {
+    "room_id": "dummy_room_04",
+    "point_cloud_path": "data/dummy_room_04.npy",
+    "question": "How many distinct objects are visible in the room?",
+    "answer": "There are several distinct objects visible."
+  },
+  {
+    "room_id": "dummy_room_04",
+    "point_cloud_path": "data/dummy_room_04.npy",
+    "question": "Is there an object close to the wall?",
+    "answer": "Yes, one object is close to the wall."
+  }
+]
